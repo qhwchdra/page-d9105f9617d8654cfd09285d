@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "6b156b9857dbd96800758a3e",
+  "owner": "qhwchdra",
+  "repo": "page-d9105f9617d8654cfd09285d",
+  "title": "OxygenProxy",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d9105f9617d8654cfd09285d",
+      "a": "OxygenProxy",
+      "b": "稳定全球clash加速器",
+      "entity": "OxygenProxy",
+      "brand": "OxygenProxy",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b389444249b28c6110008ddd39cfb40fdb29ffaaec946ac7647e133730c9522c",
+      "content": {
+        "primary_entity": "OxygenProxy",
+        "keyword1": "OxygenProxy",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按系统选择适配客户端，Windows 推荐 Clash Verge，macOS 可用 ClashX Pro，Android 选 Clash Meta，iOS 搭配 Shadowrocket。",
+          "AI_CLIENTS_TITLE": "设备与客户端搭配",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求锁定套餐，导入订阅后即可开始使用。",
+          "AI_CLOSING_TITLE": "按需选套餐",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，覆盖 3 台至 20 台设备同时在线，流量从每月 100GB 到 1000GB 可选，支持 Clash 订阅配置与 IPLC 专线优化。",
+          "AI_FEATURES_INTRO": "从设备数量、流量用量与订阅周期三个方面对比，快速找到匹配的套餐组合。",
+          "AI_FEATURES_TITLE": "选型核心要点",
+          "AI_FEATURE_TEXT_1": "基础版适合 1-2 人使用，旗舰版覆盖 5 台设备，团队版可满足 20 台终端同时在线。",
+          "AI_FEATURE_TEXT_2": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB，按日常视频与下载用量估算即可。",
+          "AI_FEATURE_TEXT_3": "三档套餐均支持按年付费，年付价格为月付的十个月水平，长期使用更省。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TITLE_2": "按流量估用量",
+          "AI_FEATURE_TITLE_3": "按月付或年付",
+          "AI_GUIDE_INTRO": "从选套餐到导入订阅，三步完成 OxygenProxy 的初始配置。",
+          "AI_GUIDE_TITLE": "配置流程",
+          "AI_HERO_INTRO": "OxygenProxy 提供覆盖多地区的网络订阅服务，支持 Clash 客户端导入，套餐按流量与设备数量分档，适合日常浏览、流媒体播放与游戏加速等场景。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需匹配套餐",
+          "AI_HIGHLIGHT_1": "三档套餐，设备数 3 至 20 台",
+          "AI_HIGHLIGHT_2": "月流量 100GB 至 1000GB",
+          "AI_HIGHLIGHT_3": "支持 Clash 订阅导入",
+          "AI_PLANS_INTRO": "基础版 ¥15/月（年付 ¥150），旗舰版 ¥35/月（年付 ¥350），团队版 ¥85/月（年付 ¥850），按设备与流量需求匹配合适档位。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "先确认日常在线的设备数量与月流量消耗，在基础版、旗舰版和团队版之间锁定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的客户端类型与设备上限，确认常用系统在覆盖范围内。",
+          "AI_STEP_TEXT_3": "在所选 Clash 客户端中导入订阅链接，按客户端文档完成代理组与规则配置。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "OxygenProxy 订阅选型",
+          "AI_FAQ_ANSWER_1": "在用户中心复制订阅链接，粘贴到对应客户端订阅栏，更新即可加载节点列表，无需逐条手动添加。",
+          "AI_FAQ_ANSWER_2": "可以。基础版支持 3 台、旗舰版支持 5 台、团队版支持 20 台设备同时在线，按套餐上限使用即可。",
+          "AI_FAQ_ANSWER_3": "可以，旗舰版提供 IPLC 专线游戏加速优化，节点池针对延迟和稳定性做了调整，适合对网络质量有要求的用户。",
+          "AI_FAQ_ANSWER_4": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB，按年付分别约合 ¥150、¥350、¥850。",
+          "AI_FAQ_ANSWER_5": "在套餐区域查看权益与流量，结合设备数量和月均用量选择，流量需求大或需要专线优化时优先考虑旗舰版。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "OxygenProxy 订阅如何导入客户端？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时几台设备使用？",
+          "AI_FAQ_QUESTION_3": "OxygenProxy 适合游戏加速吗？",
+          "AI_FAQ_QUESTION_4": "不同套餐的流量和价格分别是多少？",
+          "AI_FAQ_QUESTION_5": "如何选择适合自己的 OxygenProxy 套餐？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "wjjb2b.cn",
+    "host": "wjjb2b.cn"
+  },
+  "file_hashes": {
+    "index.html": "d0308f730c8d30c8490e305e965ea05aa9720826108244ac26d133d35c8a8353",
+    "sitemap.xml": "73d76f633b528fede1b4b044878b60f03313ffb698d2dd232dcfd757afc6737c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "01a958d85d1b6f766d07583caac5f5d7d0a76fc7c2717cc52dc891bf979a4612",
+    "robots.txt": "bbded3285718ca83711f6c59635258060450bc82a842802ccb9983ba7b7c527b",
+    "940dea062d5fce3e21ee5597dea5584a.txt": "caadf8ca79dc504d0daa23a1b2336e6a4e528a21246edb2a64ad43d15a68fbd3"
+  },
+  "revision": "8e76b62fa682487945a46bab38ab23381592ba135b918663255e5a20dd0f1742"
+}

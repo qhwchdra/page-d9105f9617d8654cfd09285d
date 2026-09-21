@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wjjb2b.cn/sitemap.xml
